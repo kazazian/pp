@@ -1,0 +1,165 @@
+@font-face{
+    font-family: "Halvar Mittelschrift";
+    src: url("../fonts/HalvarMittel-Blk.ttf");
+    font-weight: 1000;
+    font-style: normal;
+}
+@font-face{
+    font-family: "Halvar Mittelschrift";
+    src: url("../fonts/HalvarMittel-XBd.ttf");
+    font-weight: 900;
+    font-style: normal;
+}
+@font-face{
+    font-family: "Halvar Mittelschrift";
+    src: url("../fonts/HalvarMittel-Bd.ttf");
+    font-weight: 800;
+    font-style: normal;
+}
+@font-face{
+    font-family: "Halvar Mittelschrift";
+    src: url("../fonts/HalvarMittel-Md.ttf");
+    font-weight: 700;
+    font-style: normal;
+}
+@font-face{
+    font-family: "Halvar Mittelschrift";
+    src: url("../fonts/HalvarMittel-Rg.ttf");
+    font-weight: 600;
+    font-style: normal;
+}
+@font-face{
+    font-family: "Halvar Mittelschrift";
+    src: url("../fonts/HalvarMittel-Lt.ttf");
+    font-weight: 500;
+    font-style: normal;
+}
+@font-face{
+    font-family: "Halvar Mittelschrift";
+    src: url("../fonts/HalvarMittel-Th.ttf");
+    font-weight: 400;
+    font-style: normal;
+}
+@font-face{
+    font-family: "Halvar Mittelschrift";
+    src: url("../fonts/HalvarMittel-XTh.ttf");
+    font-weight: 300;
+    font-style: normal;
+}
+@font-face{
+    font-family: "Halvar Mittelschrift";
+    src: url("../fonts/HalvarMittel-Hl.ttf");
+    font-weight: 200;
+    font-style: normal;
+}
+@font-face{
+    font-family: "Halvar Mittelschrift";
+    src: url("../fonts/HalvarMittel-BlkSlanted.ttf");
+    font-weight: 1000;
+    font-style: italic;
+}
+@font-face{
+    font-family: "Halvar Mittelschrift";
+    src: url("../fonts/HalvarMittel-XBdSlanted.ttf");
+    font-weight: 900;
+    font-style: italic;
+}
+@font-face{
+    font-family: "Halvar Mittelschrift";
+    src: url("../fonts/HalvarMittel-BdSlanted.ttf");
+    font-weight: 800;
+    font-style: italic;
+}
+@font-face{
+    font-family: "Halvar Mittelschrift";
+    src: url("../fonts/HalvarMittel-MdSlanted.ttf");
+    font-weight: 700;
+    font-style: italic;
+}
+@font-face{
+    font-family: "Halvar Mittelschrift";
+    src: url("../fonts/HalvarMittel-RgSlanted.ttf");
+    font-weight: 600;
+    font-style: italic;
+}
+@font-face{
+    font-family: "Halvar Mittelschrift";
+    src: url("../fonts/HalvarMittel-LtSlanted.ttf");
+    font-weight: 500;
+    font-style: italic;
+}
+@font-face{
+    font-family: "Halvar Mittelschrift";
+    src: url("../fonts/HalvarMittel-ThSlanted.ttf");
+    font-weight: 400;
+    font-style: italic;
+}
+@font-face{
+    font-family: "Halvar Mittelschrift";
+    src: url("../fonts/HalvarMittel-XThSlanted.ttf");
+    font-weight: 300;
+    font-style: italic;
+}
+@font-face{
+    font-family: "Halvar Mittelschrift";
+    src: url("../fonts/HalvarMittel-HlSlanted.ttf");
+    font-weight: 200;
+    font-style: italic;
+}
+
+@font-face{
+    font-family: "Halvar Mittelschrift";
+    src: url("../fonts/HalvarMittel-BlkSuSlanted.ttf");
+    font-weight: 1000;
+    font-style: oblique;
+}
+@font-face{
+    font-family: "Halvar Mittelschrift";
+    src: url("../fonts/HalvarMittel-BdSuSlanted.ttf");
+    font-weight: 900;
+    font-style: oblique;
+}
+@font-face{
+    font-family: "Halvar Mittelschrift";
+    src: url("../fonts/HalvarMittel-BdSuSlanted.ttf");
+    font-weight: 800;
+    font-style: oblique;
+}
+@font-face{
+    font-family: "Halvar Mittelschrift";
+    src: url("../fonts/HalvarMittel-MdSuSlanted.ttf");
+    font-weight: 700;
+    font-style: oblique;
+}
+@font-face{
+    font-family: "Halvar Mittelschrift";
+    src: url("../fonts/HalvarMittel-RgSuSlanted.ttf");
+    font-weight: 600;
+    font-style: oblique;
+}
+@font-face{
+    font-family: "Halvar Mittelschrift";
+    src: url("../fonts/HalvarMittel-LtSuSlanted.ttf");
+    font-weight: 500;
+    font-style: oblique;
+}
+@font-face{
+    font-family: "Halvar Mittelschrift";
+    src: url("../fonts/HalvarMittel-ThSuSlanted.ttf");
+    font-weight: 400;
+    font-style: oblique;
+}
+@font-face{
+    font-family: "Halvar Mittelschrift";
+    src: url("../fonts/HalvarMittel-XThSuSlanted.ttf");
+    font-weight: 300;
+    font-style: oblique;
+}
+@font-face{
+    font-family: "Halvar Mittelschrift";
+    src: url("../fonts/HalvarMittel-HlSuSlanted.ttf");
+    font-weight: 200;
+    font-style: oblique;
+}
+
+
